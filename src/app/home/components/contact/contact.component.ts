@@ -14,7 +14,7 @@ export class ContactComponent {
       link: 'https://x.com/G9teru',
       image: '/twitter.png',
       name: 'Twitter',
-      message: 'Follow me on X'
+      message: 'Find me on X'
 
     },
     {

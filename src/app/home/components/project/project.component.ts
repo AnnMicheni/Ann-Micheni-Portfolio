@@ -24,7 +24,12 @@ export class ProjectComponent {
       title: 'Portfolio Template',
       description: 'Its a personal portfolio website that is built with all needed features for easy customization to specific requirements. ',
       image: 'portfolio.png'
-    }
+    },
+    {
+      title: 'Portfolio Template',
+      description: 'Its a personal portfolio website that is built with all needed features for easy customization to specific requirements. ',
+      image: 'portfolio.png'
+    },
   
   ];
 }
