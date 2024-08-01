@@ -5,6 +5,7 @@ import { routes } from './app.routes';
 import { ContactComponent } from './home/components/contact/contact.component';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';
+import { inject } from "@vercel/analytics"
 
 @Component({
   selector: 'app-root',
