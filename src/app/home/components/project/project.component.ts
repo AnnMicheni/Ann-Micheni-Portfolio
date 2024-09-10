@@ -16,19 +16,19 @@ export class ProjectComponent {
       image: '/house.jpeg'
     },
     {
-      title: 'Insurance quotation system',
-      description: 'Its a system built to help insurance companies automate issuing of quotations to their clients. ',
-      image: 'quot.png'
+      title: 'Hospital Laboratory Information Systems',
+      description: 'These systems are built to enhance the efficiency and accuracy of laboratory operations in a hospital setting. It streamlines the process of managing patient test results, tracking samples, and coordinating with healthcare providers. Features include real-time data entry, automated report generation, and integration with electronic health records (EHR), aiming to improve workflow, reduce errors, and provide timely insights for better patient care.',
+      image: 'hosp logo.png'
     },
     {
-      title: 'Portfolio Template',
-      description: 'Its a personal portfolio website that is built with all needed features for easy customization to specific requirements. ',
-      image: 'portfolio.png'
+      title: 'Pharmaciteucal Laboratory Information,
+      description: 'It is a system built to optimize the management and analysis of data within pharmaceutical laboratories. The system supports tasks such as tracking experiments, managing inventory, and ensuring regulatory compliance. Key features include automated data collection, detailed reporting, and integration with other research tools. The goal is to enhance operational efficiency, ensure data integrity, and accelerate the research and development process in pharmaceutical labs.',
+      image: 'Pharma.png'
     },
     {
-      title: 'Portfolio Template',
-      description: 'Its a personal portfolio website that is built with all needed features for easy customization to specific requirements. ',
-      image: 'portfolio.png'
+      title: 'Agricultural Research Laboratory Information System,
+      description: 'It is a system designed to streamline and manage data for agricultural research laboratories. The system facilitates the organization of research data, tracking of experiments, and management of samples. Features include real-time data entry, detailed analytics, and integration with field data collection tools. The objective is to enhance research efficiency, ensure accurate data management, and support informed decision-making in agricultural studies.',
+      image: 'agri1.jpg'
     },
   
   ];
