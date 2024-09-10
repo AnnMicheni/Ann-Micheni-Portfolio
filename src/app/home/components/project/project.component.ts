@@ -23,7 +23,7 @@ export class ProjectComponent {
     {
       title: 'Pharmaciteucal Laboratory Information',
       description: 'It is a system built to optimize the management and analysis of data within pharmaceutical laboratories. The system supports tasks such as tracking experiments, managing inventory, and ensuring regulatory compliance. Key features include automated data collection, detailed reporting, and integration with other research tools. The goal is to enhance operational efficiency, ensure data integrity, and accelerate the research and development process in pharmaceutical labs.',
-      image: '/Pharma.png'
+      image: '/pharma2.png'
     },
     {
       title: 'Agricultural Research Laboratory Information System',
