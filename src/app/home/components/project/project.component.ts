@@ -21,12 +21,12 @@ export class ProjectComponent {
       image: '/hosp logo.png'
     },
     {
-      title: 'Pharmaciteucal Laboratory Information,
+      title: 'Pharmaciteucal Laboratory Information',
       description: 'It is a system built to optimize the management and analysis of data within pharmaceutical laboratories. The system supports tasks such as tracking experiments, managing inventory, and ensuring regulatory compliance. Key features include automated data collection, detailed reporting, and integration with other research tools. The goal is to enhance operational efficiency, ensure data integrity, and accelerate the research and development process in pharmaceutical labs.',
       image: '/Pharma.png'
     },
     {
-      title: 'Agricultural Research Laboratory Information System,
+      title: 'Agricultural Research Laboratory Information System',
       description: 'It is a system designed to streamline and manage data for agricultural research laboratories. The system facilitates the organization of research data, tracking of experiments, and management of samples. Features include real-time data entry, detailed analytics, and integration with field data collection tools. The objective is to enhance research efficiency, ensure accurate data management, and support informed decision-making in agricultural studies.',
       image: '/Agri1.jpg'
     },
