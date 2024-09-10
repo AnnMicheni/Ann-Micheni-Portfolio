@@ -11,9 +11,9 @@ import { Component } from '@angular/core';
 export class ProjectComponent {
   projects = [
     {
-      title: 'Vehicle assessment and inspection',
-      description: 'It is a project built to help assessor consolidate their assessment data and generate a comprehensive report for submission to insurance companies.',
-      image: '/inspect.jpeg'
+      title: 'Architect Website',
+      description: 'This project is designed to facilitate seamless connections between clients and architects or construction professionals. Featuring an intuitive interface, it allows users to browse portfolios, schedule consultations, and manage project timelines. The platform aims to streamline the process of showcasing designs and managing construction projects, helping clients visualize and realize their dream projects more efficiently.',
+      image: '/house.jpeg'
     },
     {
       title: 'Insurance quotation system',
