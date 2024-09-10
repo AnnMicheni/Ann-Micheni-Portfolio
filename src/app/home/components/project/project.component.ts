@@ -28,7 +28,7 @@ export class ProjectComponent {
     {
       title: 'Agricultural Research Laboratory Information System,
       description: 'It is a system designed to streamline and manage data for agricultural research laboratories. The system facilitates the organization of research data, tracking of experiments, and management of samples. Features include real-time data entry, detailed analytics, and integration with field data collection tools. The objective is to enhance research efficiency, ensure accurate data management, and support informed decision-making in agricultural studies.',
-      image: 'agri1.jpg'
+      image: 'Agri1.jpg'
     },
   
   ];
