@@ -11,7 +11,7 @@ import { CommonModule } from '@angular/common';
 export class ContactComponent {
   contacts = [
     {
-      link: 'https://x.com/anne_micheni',
+      link: 'https://x.com/AnneMicheni1',
       image: '/twitter.png',
       name: 'Twitter',
       message: 'Find me on X'
