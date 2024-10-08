@@ -12,7 +12,7 @@ export class ProjectComponent {
   projects = [
     {
       title: 'Architect Website',
-      description: 'This project is designed to facilitate seamless connections between clients and architects or construction professionals. Featuring an intuitive interface, it allows users to browse portfolios, schedule consultations, and manage project timelines. The platform aims to streamline the process of showcasing designs and managing construction projects, helping clients visualize and realize their dream projects more efficiently.',
+      description: 'This project is designed to facilitate seamless connections between clients and architects or construction professionals. Featuring an intuitive interface, it allows users to browse portfolios, schedule consultations, and manage project timelines. The platform aims to streamline the process of showcasing designs and managing construction projects, helping clients visualize and realize their dream projects more efficiently. https://neom-international.com/',
       image: '/house.jpeg'
     },
     {
